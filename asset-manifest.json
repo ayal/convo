@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/convo/static/css/main.8cccc650.chunk.css",
-    "main.js": "/convo/static/js/main.e0e1d7f3.chunk.js",
-    "main.js.map": "/convo/static/js/main.e0e1d7f3.chunk.js.map",
+    "main.js": "/convo/static/js/main.6db18e02.chunk.js",
+    "main.js.map": "/convo/static/js/main.6db18e02.chunk.js.map",
     "runtime-main.js": "/convo/static/js/runtime-main.5371c240.js",
     "runtime-main.js.map": "/convo/static/js/runtime-main.5371c240.js.map",
-    "static/js/2.86122f26.chunk.js": "/convo/static/js/2.86122f26.chunk.js",
-    "static/js/2.86122f26.chunk.js.map": "/convo/static/js/2.86122f26.chunk.js.map",
+    "static/js/2.5cdc265e.chunk.js": "/convo/static/js/2.5cdc265e.chunk.js",
+    "static/js/2.5cdc265e.chunk.js.map": "/convo/static/js/2.5cdc265e.chunk.js.map",
     "index.html": "/convo/index.html",
-    "precache-manifest.7bb81481c798398c1b5bf76550aeb006.js": "/convo/precache-manifest.7bb81481c798398c1b5bf76550aeb006.js",
+    "precache-manifest.4d175cc8e08616f65f3e430f6ddd733c.js": "/convo/precache-manifest.4d175cc8e08616f65f3e430f6ddd733c.js",
     "service-worker.js": "/convo/service-worker.js",
     "static/css/main.8cccc650.chunk.css.map": "/convo/static/css/main.8cccc650.chunk.css.map",
-    "static/js/2.86122f26.chunk.js.LICENSE.txt": "/convo/static/js/2.86122f26.chunk.js.LICENSE.txt",
+    "static/js/2.5cdc265e.chunk.js.LICENSE.txt": "/convo/static/js/2.5cdc265e.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/convo/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5371c240.js",
-    "static/js/2.86122f26.chunk.js",
+    "static/js/2.5cdc265e.chunk.js",
     "static/css/main.8cccc650.chunk.css",
-    "static/js/main.e0e1d7f3.chunk.js"
+    "static/js/main.6db18e02.chunk.js"
   ]
 }
